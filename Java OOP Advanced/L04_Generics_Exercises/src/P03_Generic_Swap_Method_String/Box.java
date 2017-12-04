@@ -19,8 +19,6 @@ import java.util.List;
         T temp=values.get(a);
         values.set(a,values.get(b));
         values.set(b,temp);
-
-
     }
 
     @Override
